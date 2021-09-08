@@ -1,0 +1,323 @@
+Amazon Category,Quicken Category
+,Uncategorized
+ABIS_BOOK,Shopping:Books
+ACCESSORY,Shopping:Clothing
+AIR_PUMP,Health & Fitness:Sports
+ANTENNA,Bills & Utilities:Television
+APPAREL_BELT,Shopping:Clothing
+ARM_SLEEVE,Shopping:Clothing
+ART_AND_CRAFT_SUPPLY,Kids:Kids Activities
+BAKING_PAN,Home:Home Supplies
+BALLOON,Kids:Toys
+BANNER,Kids:Birthday Parties
+BATHWATER_ADDITIVE,Shopping:Personal Care
+BATTERY,Home:Home Supplies
+BEAUTY,Shopping:Personal Care
+BLANKET,Home:Furnishings
+BOARD_GAME,Entertainment:Amusement
+BOOKS_1973_AND_LATER,Shopping:Books
+BOOT,Shopping:Clothing
+BOTTLE,Education:Books & Supplies
+BRACELET,Shopping:Clothing
+BREAD,Food & Dining:Groceries
+CADDY,Education:Books & Supplies
+CAKE,Food & Dining:Groceries
+CAKE_TOPPER,Kids:Birthday Parties
+CANDLE,Kids:Birthday Parties
+CARGO_STRAP,Kids:Toys
+CELLULAR_PHONE,Bills & Utilities:Mobile Phone
+CELLULAR_PHONE_CASE,Bills & Utilities:Mobile Phone
+CLEANING_AGENT,Home:Home Supplies
+COFFEE,Food & Dining:Groceries
+COLLECTIBLE_CARD,Kids:Toys
+CONDIMENT,Food & Dining:Groceries
+CONDITIONER,Shopping:Personal Care
+CONSOLE_VIDEO_GAMES,Kids:Toys
+CONSUMER_ELECTRONICS,Uncategorized
+COOKIE,Food & Dining:Groceries
+COOKIE_CUTTER,Home:Home Supplies
+COSTUME_OUTFIT,Kids:Toys
+CRACKER,Food & Dining:Groceries
+DAIRY_BASED_BUTTER,Food & Dining:Groceries
+DAIRY_BASED_CHEESE,Food & Dining:Groceries
+DAIRY_BASED_CREAM,Food & Dining:Groceries
+DAIRY_BASED_DRINK,Food & Dining:Groceries
+DAIRY_BASED_ICE_CREAM,Food & Dining:Groceries
+DECORATIVE_MAGNET,Home:Furnishings
+DECORATIVE_RIBBON_TRIM,Kids:Birthday Parties
+DIGITAL_DEVICE_4,Bills & Utilities:Television
+DISHWARE_PLATE,Home:Furnishings
+DOOR,Home:Furnishings
+DOWNLOADABLE_VIDEO_GAME,Kids:Toys
+DRESS,Shopping:Clothing
+EDIBLE_OIL_VEGETABLE,Food & Dining:Groceries
+ELECTRIC_SHAVER,Personal Care
+ELECTRONIC_ADAPTER,Uncategorized
+ELECTRONIC_CABLE,Shopping:Electronics & Software
+ELECTRONIC_GIFT_CARD,Gifts & Donations:Gift
+ELECTRONIC_SWITCH,Home:Supplies
+EXERCISE_MAT,Health & Fitness:Sports
+FISH,Food & Dining:Groceries
+FLASH_MEMORY,Shopping:Electronics & Software
+FOOD_PREPARATION_MOLD,Food & Dining:Groceries
+FOOD_STORAGE_BAG,Food & Dining:Groceries
+FRUIT,Food & Dining:Groceries
+FRUIT_SNACK,Food & Dining:Groceries
+GIFT_WRAP,Kids:Birthday Parties
+GREETING_CARD,Kids:Birthday Parties
+GROCERY,Food & Dining:Groceries
+HAIR_BRUSH,Shopping:Personal Care
+HAIR_COLORING_AGENT,Shopping:Personal Care
+HAIR_STYLING_AGENT,Shopping:Personal Care
+HEADPHONES,Shopping:Electronics & Software
+HEALTH_PERSONAL_CARE,Shopping:Personal Care
+HERB,Food & Dining:Groceries
+HERBAL_SUPPLEMENT,Shopping:Personal Care
+HOME,Home:Supplies
+HVAC_AIR_FILTER,Home:Supplies
+INCONTINENCE_PROTECTOR,Shopping:Personal Care
+INKJET_PRINTER_INK,Home:Supplies
+INSECT_REPELLENT,Shopping:Personal Care
+JUICE_AND_JUICE_DRINK,Food & Dining:Groceries
+KEYBOARDS,Shopping:Electronics & Software
+KICK_SCOOTER,Health & Fitness:Sports
+KITCHEN,Food & Dining:Groceries
+LAMP,Home:Furnishings
+LEAVENING_AGENT,Food & Dining:Groceries
+LEGUME,Food & Dining:Groceries
+LEOTARD,Shopping:Clothing
+LIGHT_BULB,Home:Supplies
+LOCK,Health & Fitness:Sports
+MARKING_PEN,Education:Books & Supplies
+MEAT,Food & Dining:Groceries
+NON_RIDING_TOY_VEHICLE,Kids:Toys
+NOODLE,Food & Dining:Groceries
+OFFICE_PRODUCTS,Education:Books & Supplies
+ORTHOPEDIC_BRACE,Shopping:Personal Care
+OTC_MEDICATION,Shopping:Personal Care
+OUTDOOR_LIVING,Home:Supplies
+OUTDOOR_RECREATION_PRODUCT,Health & Fitness:Sports
+PACIFIER,Kids:Baby Supplies
+PACKAGED_SOUP_AND_STEW,Food & Dining:Groceries
+PAINT,Shopping:Personal Care
+PAJAMAS,Shopping:Clothing
+PANTS,Shopping:Clothing
+PAPER_TOWEL,Home:Supplies
+PARTY_SUPPLIES,Kids:Birthday Parties
+PERSONAL_CARE_APPLIANCE,Shopping:Personal Care
+PERSONAL_FRAGRANCE,Shopping:Personal Care
+PERSONAL_PILL_DISPENSER,Shopping:Personal Care
+PORTABLE_ELECTRONIC_DEVICE_COVER,Home:Supplies
+POTABLE_WATER_FILTER,Home:Supplies
+POT_HOLDER,Home:Supplies
+POULTRY,Food & Dining:Groceries
+PRINTER,Shopping:Electronics & Software
+PRINT_COPY_PAPER,Home:Supplies
+PROTECTIVE_GLOVE,Home:Supplies
+PUMP_DISPENSER,Home:Supplies
+PUZZLES,Kids:Toys
+RAM_MEMORY,Shopping:Electronics & Software
+ROLLER_SKATE,Kids:Toys
+SAFETY_MASK,Shopping:Pandemic-related
+SANDAL,Shopping:Clothing
+SAUCE,Food & Dining:Groceries
+SCARF,Shopping:Clothing
+SCISSORS,Education:Books & Supplies
+SCREEN_PROTECTOR,Bills & Utilities:Mobile Phone
+SCREWDRIVER,Home:Supplies
+SCREWS,Home:Supplies
+SECURITY_CAMERA,Shopping:Electronics & Software
+SHAMPOO,Shopping:Personal Care
+SHELLFISH,Food & Dining:Groceries
+SHIRT,Shopping:Clothing
+SHOELACE,Shopping:Clothing
+SHOES,Shopping:Clothing
+SHORTS,Shopping:Clothing
+SKATEBOARD,Health & Fitness:Sports
+SKIN_CLEANING_AGENT,Shopping:Personal Care
+SKIN_CLEANING_WIPE,Shopping:Personal Care
+SKIN_EXFOLIANT,Shopping:Personal Care
+SNACK_FOOD_BAR,Food & Dining:Groceries
+SOCKS,Shopping:Clothing
+SOCKSHOSIERY,Shopping:Clothing
+SPORTING_GOODS,Health & Fitness:Sports
+STICKER_DECAL,Home:Furnishings
+STOOL_SEATING,Home:Furnishings
+STORAGE_BINDER,Education:Books & Supplies
+STORAGE_HOOK,Home:Furnishings
+STRING_LIGHT,Home:Furnishings
+SUGAR,Food & Dining:Groceries
+SUNGLASSES,Shopping:Clothing
+SUNSCREEN,Shopping:Personal Care
+SWIMWEAR,Shopping:Clothing
+TABLETOP_GAME,Kids:Toys
+TEA,Food & Dining:Groceries
+TEACHING_EQUIPMENT,Education:Books & Supplies
+THERMOMETER,Shopping:Personal Care
+THERMOS,Education:Books & Supplies
+TIGHTS,Shopping:Clothing
+TIMER,Shopping:Electronics & Software
+TOILET_SEAT,Home:Furnishings
+TOOTHBRUSH,Shopping:Personal Care
+TOPICAL_HAIR_REGROWTH_TREATMENT,Shopping:Personal Care
+TOYS_AND_GAMES,Kids:Toys
+TOY_BUILDING_BLOCK,Kids:Toys
+TOY_FIGURE,Kids:Toys
+TRAMPOLINE,Health & Fitness:Sports
+TWO_WAY_RADIO,Kids:Toys
+UNDERWEAR,Shopping:Clothing
+UNMANNED_AERIAL_VEHICLE,Kids:Toys
+VEGETABLE,Food & Dining:Groceries
+VINEGAR,Food & Dining:Groceries
+VITAMIN,Shopping:Personal Care
+WALLET,Shopping:Clothing
+WASTE_BAG,Home:Supplies
+WATER,Food & Dining:Groceries
+WATER_FLOTATION_DEVICE,Kids:Toys
+WEARABLE_COMPUTER,Shopping:Electronics & Software
+WINE,Food & Dining:Alcohol & Bars
+WRITING_INSTRUMENT,Education:Books & Supplies
+AMAZON_DEVICE,Uncategorized
+APRON,Home:Supplies
+ART_CRAFT_KIT,Kids:Kids Activities
+BEER,Food & Dining:Alcohol & Bars
+CEREAL,Food & Dining:Groceries
+DRINKING_CUP,Home:Supplies
+FOOD,Food & Dining:Groceries
+KEYCHAIN,Shopping:Personal Care
+MEDICATION,Shopping:Personal Care
+PASTRY,Food & Dining:Groceries
+PLANT_SEED,Home:Supplies
+RECREATION_BALL,Kids:Toys
+RESPIRATOR,Shopping:Pandemic-related
+SPORT_ACTIVITY_GLOVE,Health & Fitness:Sports
+BACKPACK,Education:Books & Supplies
+BASKET,Home:Furnishings
+BICYCLE_LIGHT,Health & Fitness:Sports
+BLANK_BOOK,Education:Books & Supplies
+BREAKFAST_CEREAL,Food & Dining:Groceries
+CYCLING_TIRE_TUBE,Health & Fitness:Sports
+ELECTRIC_FAN,Health & Fitness:Sports
+ERASER,Education:Books & Supplies
+GUILD_HOME,Education:Books & Supplies
+KEYBOARD_MOUSE_SET,Shopping:Electronics & Software
+PRETZEL,Food & Dining:Groceries
+PROTEIN_SUPPLEMENT_POWDER,Shopping:Personal Care
+SAFETY_GLASSES,Shopping:Personal Care
+SHAVING_AGENT,Shopping:Personal Care
+SLEEPING_BAG,Home:Furnishings
+TOWEL,Home:Furnishings
+WRITING_PAPER,Education:Books & Supplies
+BABY_PRODUCT,Kids:Baby Supplies
+SNACK_MIX,Food & Dining:Groceries
+LAUNDRY_DETERGENT,Home:Supplies
+SUGAR_CANDY,Food & Dining:Groceries
+SNACK_CHIP_AND_CRISP,Food & Dining:Groceries
+FLASH_DRIVE,Shopping:Electronics & Software
+COMPUTER_DRIVE_OR_STORAGE,Shopping:Electronics & Software
+DISHWASHER_DETERGENT,Home:Supplies
+BODY_DEODORANT,Shopping:Personal Care
+SUGAR_SUBSTITUTE,Food & Dining:Groceries
+FLASHLIGHT,Home:Supplies
+STROLLER_PROTECTION_SHIELD,Kids:Baby Supplies
+CLEANING_BRUSH,Kids:Baby Supplies
+COMPUTER,Shopping:Electronics & Software
+COMPUTER_COMPONENT,Shopping:Electronics & Software
+CAMCORDER,Shopping:Electronics & Software
+DENTAL_FLOSS,Shopping:Personal Care
+TOOTH_CLEANING_AGENT,Shopping:Personal Care
+HAIR_CLEANER_CONDITIONER,Shopping:Personal Care
+BABY_BOTTLE,Kids:Baby Supplies
+MAJOR_HOME_APPLIANCES,Home:Furnishings
+LUGGAGE,Kids:Baby Supplies
+MATTRESS,Home:Furnishings
+MICROWAVE_OVEN,Home:Furnishings
+CHARGING_ADAPTER,Shopping:Electronics & Software
+NETWORKING_ROUTER,Shopping:Electronics & Software
+DIGITAL_DEVICE_7,Shopping:Electronics & Software
+WEIGH_SCALE,Shopping:Personal Care
+INFANT_TODDLER_CAR_SEAT,Kids:Baby Supplies
+STROLLER,Kids:Baby Supplies
+WATCH,Shopping:Electronics & Software
+GPS_OR_NAVIGATION_SYSTEM,Shopping:Electronics & Software
+CLOCK,Home:Furnishings
+LICENSE_PLATE_ATTACHMENT,Auto & Transport:Service & Parts
+PLUMBING_FIXTURE,Home:Furnishings
+POWER_CORD,Home:Furnishings
+BOTTLE_NIPPLE,Kids:Baby Supplies
+SINGLE_BOARD_COMPUTER,Shopping:Electronics & Software
+PAINT_BRUSH,Kids:Kids Activities
+SAFE,Home:Furnishings
+COSTUME_HEADWEAR,Kids:Kids Activities
+WIG,Kids:Kids Activities
+NETWORKING_DEVICE,Shopping:Electronics & Software
+DIGITAL_DEVICE_3,Shopping:Electronics & Software
+SEEDS_AND_PLANTS,Food & Dining:Groceries
+TRANSPORT_RACK,Auto & Transport
+UMBRELLA,Home
+BODY_POSITIONER,Kids:Baby Supplies
+CHOCOLATE_CANDY,Food & Dining:Groceries
+WIRELESS_SIGNAL_REPEATER,Shopping:Electronics & Software
+VEHICLE_INTERIOR_SHADE,Auto & Transport
+NIGHTGOWN_NIGHTSHIRT,Shopping:Clothing
+TEMPORARY_TATTOO,Kids
+APPAREL_HEAD_NECK_COVERING,Shopping:Pandemic-related
+SLEEPWEAR,Shopping:Clothing
+VIDEO_DISC_PLAYER,Shopping:Electronics & Software
+LOCATION_TRACKER,Shopping:Electronics & Software
+CULINARY_SALT,Food & Dining:Groceries
+FAUCET,Home:Furnishings
+PHONE_ACCESSORY,Shopping:Electronics & Software
+SIM_CARD,Shopping:Electronics & Software
+MATTRESS_COVER,Home:Furnishings
+PILLOWCASE,Home:Furnishings
+PET_FEEDER,Home
+NETWORK_INTERFACE_CONTROLLER_ADAPTER,Shopping:Electronics & Software
+SLIPPER,Shopping:Clothing
+NUTRITIONAL_SUPPLEMENT,Shopping:Personal Care
+PORTABLE_STOVE,Home
+RUBBER_STAMP,Home
+FOOD_SLICER,Home
+PAPER_PRODUCT,Education:Books & Supplies
+RUG,Home:Furnishings
+EXERCISE_BAND,Health & Fitness:Sports
+FLATWARE,Home
+SCIENCE_FUNDAMENTALS_KIT,Kids:Toys
+MUSCLE_ROLLER,Health & Fitness:Sports
+CARD_STOCK,Education:Books & Supplies
+PRESSURE_COOKER,Home
+UNDERPANTS,Shopping:Clothing
+WRITING_BOARD,Education:Books & Supplies
+COMPUTER_INPUT_DEVICE,Shopping:Electronics & Software
+INPUT_MOUSE,Shopping:Electronics & Software
+WIRELESS_ACCESSORY,Shopping:Electronics & Software
+SKIRT,Shopping:Clothing
+TOOTHBRUSH_HOLDER,Home
+COAT,Shopping:Clothing
+DOORSTOP,Home
+MULTIPORT_HUB,Shopping:Electronics & Software
+SHIN_GUARD,Health & Fitness:Sports
+PORTABLE_ELECTRONIC_DEVICE_STAND,Shopping:Electronics & Software
+TOTE_BAG,Home
+ARTIFICIAL_TREE,Home
+VIDEO_GAME_ACCESSORIES,Shopping:Electronics & Software
+PERSONAL_FLOTATION_DEVICE,Health & Fitness:Sports
+VALVE,Home
+SCULPTING_MATERIAL,Kids:Toys
+BLOOD_PRESSURE_MONITOR,Shopping:Personal Care
+BUILDING_MATERIAL,Home
+STORAGE_BOX,Home
+HANDRAIL,Home
+HAIR_TRIMMER,Shopping:Personal Care
+FOOD_GLITTER_SPRINKLE,Food & Dining:Groceries
+PAPER_CLIP_CLAMP,Education:Books & Supplies
+IRRIGATION_SPRINKLER,Home
+INTERNAL_MEMORY,Shopping:Electronics & Software
+BLOOD_OXYGEN_MONITOR,Shopping:Pandemic-related
+TOWEL_HOLDER,Home:Furnishings
+TABLE,Home:Furnishings
+DYE,Kids:Kids Activities
+SCREW_GUN,Home
+AUTO_ACCESSORY,Auto & Transport:Service & Parts
+KNEE_PAD,Health & Fitness:Sports
+PICKLE,Food & Dining:GroceriesTREE_SKIRT,Home
