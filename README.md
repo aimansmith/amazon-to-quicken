@@ -13,7 +13,7 @@ The following is my method for categorizing my Amazon spend.
 3. Confirm your category mappings
 4. Use Excel to create a csv file for import
 5. Import the csv file in Quicken and rename the resulting account
-6. Be amazed at your beautifilly categorized purchases
+6. Be amazed at your beautifully categorized purchases
 
 
 ## Download order history report
