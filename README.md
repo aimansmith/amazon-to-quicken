@@ -29,7 +29,7 @@ Note: I do this on Google Sheets, the process may be a bit different in Excel
 3. Select "Insert new sheet".  Allow autodetection of the delimiter or select comma.
 4. Copy and paste all entries into the amazon-order-history tab.
 
-## Create a CSV for import
+## Export from Excel and import into Quicken
 1. Go to the "for-import" sheet.  The first row should be automatically filled out
 2. Count the number of rows you have in the "amazon-order-history" sheet and create the same number in the "for-import" sheet.  Copy the first row all the way down to that number.
 3. Check column F ("Category") to confirm that all categories have a mapping.  For those that fail, you can manually add an entry into the "category_mappings" sheet.  All items that don't have a clean mapping will return "Uncategorized".
