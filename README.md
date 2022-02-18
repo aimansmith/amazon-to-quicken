@@ -33,3 +33,6 @@ Note: I do this on Google Sheets, the process may be a bit different in Excel
 1. Go to the "for-import" sheet.  The first row should be automatically filled out
 2. Count the number of rows you have in the "amazon-order-history" sheet and create the same number in the "for-import" sheet.  Copy the first row all the way down to that number.
 3. Check column F ("Category") to confirm that all categories have a mapping.  For those that fail, you can manually add an entry into the "category_mappings" sheet.  All items that don't have a clean mapping will return "Uncategorized".
+4. Export the for-import sheet to a CSV.  Rename the CSV to something meaningful like "Amazon-purchase-feb-2021.csv"
+5. Import the CSV file into Quicken as a Mint CSV.  In the Mac version of Quicken this is "File"->"Import"->"Mint.com File (CSV)"
+6. To keep things clean, you can/should remove any Amazon charges in your other accounts (e.g. credit cards etc) so that the bills don't get counted twice.
